@@ -1,0 +1,819 @@
+DATASET_COLORSTRIP
+
+SEPARATOR TAB
+
+DATASET_LABEL	ethiopia
+COLOR	#808080
+
+LEGEND_TITLE	ethiopia
+LEGEND_SHAPES	1	1
+LEGEND_COLORS	#fdbf6f	#808080
+LEGEND_LABELS	Ethiopia	Representative genomes
+
+BORDER_WIDTH	0.25
+BORDER_COLOR	#CCCCCC
+
+DATA
+Eth01-2021	#fdbf6f	Ethiopia
+Eth03-2021	#fdbf6f	Ethiopia
+Eth05-2021	#fdbf6f	Ethiopia
+Eth06-2021	#fdbf6f	Ethiopia
+Eth07-2021	#fdbf6f	Ethiopia
+Eth08-2021	#fdbf6f	Ethiopia
+Eth09-2021	#fdbf6f	Ethiopia
+Eth10-2021	#fdbf6f	Ethiopia
+Eth11-2021	#fdbf6f	Ethiopia
+Eth12-2021	#fdbf6f	Ethiopia
+Eth13-2021	#fdbf6f	Ethiopia
+Eth14-2022	#fdbf6f	Ethiopia
+Eth16-2022	#fdbf6f	Ethiopia
+Eth17-2022	#fdbf6f	Ethiopia
+Eth18-2022	#fdbf6f	Ethiopia
+Eth19-2022	#fdbf6f	Ethiopia
+Eth21-2022	#fdbf6f	Ethiopia
+Eth22-2022	#fdbf6f	Ethiopia
+Eth24-2022	#fdbf6f	Ethiopia
+Eth25-2022	#fdbf6f	Ethiopia
+Eth29-2022	#fdbf6f	Ethiopia
+Eth30-2022	#fdbf6f	Ethiopia
+Eth32-2022	#fdbf6f	Ethiopia
+Eth33-2022	#fdbf6f	Ethiopia
+Eth34-2022	#fdbf6f	Ethiopia
+Eth35-2022	#fdbf6f	Ethiopia
+Eth36-2022	#fdbf6f	Ethiopia
+Eth38-2022	#fdbf6f	Ethiopia
+Eth42-2022	#fdbf6f	Ethiopia
+Eth43-2022	#fdbf6f	Ethiopia
+Eth44-2022	#fdbf6f	Ethiopia
+Eth45-2022	#fdbf6f	Ethiopia
+Eth46-2022	#fdbf6f	Ethiopia
+Eth47-2022	#fdbf6f	Ethiopia
+Eth48-2022	#fdbf6f	Ethiopia
+Eth50-2022	#fdbf6f	Ethiopia
+Eth51-2022	#fdbf6f	Ethiopia
+Eth52-2022	#fdbf6f	Ethiopia
+Eth53-2022	#fdbf6f	Ethiopia
+Eth54-2022	#fdbf6f	Ethiopia
+Eth55-2022	#fdbf6f	Ethiopia
+Eth56-2022	#fdbf6f	Ethiopia
+Eth61-2023	#fdbf6f	Ethiopia
+Eth62-2023	#fdbf6f	Ethiopia
+Eth63-2023	#fdbf6f	Ethiopia
+Eth64-2023	#fdbf6f	Ethiopia
+Eth65-2023	#fdbf6f	Ethiopia
+Eth66-2023	#fdbf6f	Ethiopia
+Eth67-2023	#fdbf6f	Ethiopia
+Eth69-2023	#fdbf6f	Ethiopia
+Eth70-2023	#fdbf6f	Ethiopia
+Eth71-2023	#fdbf6f	Ethiopia
+Eth72-2023	#fdbf6f	Ethiopia
+Eth73-2023	#fdbf6f	Ethiopia
+Eth74-2023	#fdbf6f	Ethiopia
+Eth75-2023	#fdbf6f	Ethiopia
+Eth76-2023	#fdbf6f	Ethiopia
+Eth77-2023	#fdbf6f	Ethiopia
+Eth78-2023	#fdbf6f	Ethiopia
+Eth79-2023	#fdbf6f	Ethiopia
+Eth81-2023	#fdbf6f	Ethiopia
+Eth82-2023	#fdbf6f	Ethiopia
+Eth83-2023	#fdbf6f	Ethiopia
+Eth84-2023	#fdbf6f	Ethiopia
+Eth85-2023	#fdbf6f	Ethiopia
+Eth86-2023	#fdbf6f	Ethiopia
+Eth87-2023	#fdbf6f	Ethiopia
+Eth89-2023	#fdbf6f	Ethiopia
+Eth90-2023	#fdbf6f	Ethiopia
+Eth91-2023	#fdbf6f	Ethiopia
+163M	#808080	Representative genomes
+21242_3_112	#808080	Representative genomes
+21242_3_23	#808080	Representative genomes
+21242_4_62	#808080	Representative genomes
+21242_4_87	#808080	Representative genomes
+25818_2_13	#808080	Representative genomes
+25818_2_176	#808080	Representative genomes
+25818_2_181	#808080	Representative genomes
+25818_2_184	#808080	Representative genomes
+25818_2_207	#808080	Representative genomes
+25818_2_222	#808080	Representative genomes
+25818_2_270	#808080	Representative genomes
+25818_2_277	#808080	Representative genomes
+25818_2_7	#808080	Representative genomes
+25818_3_222	#808080	Representative genomes
+25818_3_234	#808080	Representative genomes
+25818_3_255	#808080	Representative genomes
+25818_3_268	#808080	Representative genomes
+25818_3_361	#808080	Representative genomes
+25825_2_43	#808080	Representative genomes
+25825_2_44	#808080	Representative genomes
+25825_2_59	#808080	Representative genomes
+25825_2_70	#808080	Representative genomes
+7M	#808080	Representative genomes
+AUNG1065	#808080	Representative genomes
+AUNG1305	#808080	Representative genomes
+AUNG1852	#808080	Representative genomes
+AUNG193	#808080	Representative genomes
+AUNG1939	#808080	Representative genomes
+AUNG2022	#808080	Representative genomes
+AUNG2170	#808080	Representative genomes
+AUNG299	#808080	Representative genomes
+AUNG320	#808080	Representative genomes
+AUNG322	#808080	Representative genomes
+AUNG495	#808080	Representative genomes
+AUNG764	#808080	Representative genomes
+AUNG892	#808080	Representative genomes
+AUNG92	#808080	Representative genomes
+BH33	#808080	Representative genomes
+BH71	#808080	Representative genomes
+CCC001	#808080	Representative genomes
+CCC011	#808080	Representative genomes
+CCC012	#808080	Representative genomes
+CCC020	#808080	Representative genomes
+CCC022	#808080	Representative genomes
+CCC029	#808080	Representative genomes
+CCC032	#808080	Representative genomes
+CCC040	#808080	Representative genomes
+DDD027	#808080	Representative genomes
+DDD038	#808080	Representative genomes
+DDD044	#808080	Representative genomes
+DDD045	#808080	Representative genomes
+DDD046	#808080	Representative genomes
+DDD048	#808080	Representative genomes
+DRR117953	#808080	Representative genomes
+DRR124801	#808080	Representative genomes
+DRR124887	#808080	Representative genomes
+DRR129094	#808080	Representative genomes
+DRR248352	#808080	Representative genomes
+DRR248387	#808080	Representative genomes
+DRR248391	#808080	Representative genomes
+DRR248395	#808080	Representative genomes
+DRR248401	#808080	Representative genomes
+DRR248403	#808080	Representative genomes
+DRR248405	#808080	Representative genomes
+DRR248415	#808080	Representative genomes
+DRR248416	#808080	Representative genomes
+DRR248432	#808080	Representative genomes
+DRR248439	#808080	Representative genomes
+EEE011	#808080	Representative genomes
+EEE014	#808080	Representative genomes
+EEE018	#808080	Representative genomes
+EEE019	#808080	Representative genomes
+EEE020	#808080	Representative genomes
+EEE022	#808080	Representative genomes
+EEE028	#808080	Representative genomes
+EEE032	#808080	Representative genomes
+EEE034	#808080	Representative genomes
+EEE035	#808080	Representative genomes
+ERR10172565	#808080	Representative genomes
+ERR10172670	#808080	Representative genomes
+ERR10659316	#808080	Representative genomes
+ERR1143662	#808080	Representative genomes
+ERR1143670	#808080	Representative genomes
+ERR1143673	#808080	Representative genomes
+ERR1143674	#808080	Representative genomes
+ERR1143684	#808080	Representative genomes
+ERR1143686	#808080	Representative genomes
+ERR1143693	#808080	Representative genomes
+ERR1143701	#808080	Representative genomes
+ERR1143705	#808080	Representative genomes
+ERR1143710	#808080	Representative genomes
+ERR1469734	#808080	Representative genomes
+ERR1469736	#808080	Representative genomes
+ERR1469737	#808080	Representative genomes
+ERR1514826	#808080	Representative genomes
+ERR1514845	#808080	Representative genomes
+ERR1528155	#808080	Representative genomes
+ERR1528184	#808080	Representative genomes
+ERR1528195	#808080	Representative genomes
+ERR1528236	#808080	Representative genomes
+ERR1528311	#808080	Representative genomes
+ERR1549677	#808080	Representative genomes
+ERR1549685	#808080	Representative genomes
+ERR1549739	#808080	Representative genomes
+ERR1549757	#808080	Representative genomes
+ERR1549790	#808080	Representative genomes
+ERR1555226	#808080	Representative genomes
+ERR1555231	#808080	Representative genomes
+ERR1560829	#808080	Representative genomes
+ERR1560857	#808080	Representative genomes
+ERR1560859	#808080	Representative genomes
+ERR1560867	#808080	Representative genomes
+ERR1560874	#808080	Representative genomes
+ERR1560939	#808080	Representative genomes
+ERR1602751	#808080	Representative genomes
+ERR1602768	#808080	Representative genomes
+ERR2133926	#808080	Representative genomes
+ERR2133968	#808080	Representative genomes
+ERR2133974	#808080	Representative genomes
+ERR2799249	#808080	Representative genomes
+ERR2799251	#808080	Representative genomes
+ERR2799252	#808080	Representative genomes
+ERR2799253	#808080	Representative genomes
+ERR2799254	#808080	Representative genomes
+ERR2799259	#808080	Representative genomes
+ERR2799263	#808080	Representative genomes
+ERR2799266	#808080	Representative genomes
+ERR2799268	#808080	Representative genomes
+ERR3325222	#808080	Representative genomes
+ERR3325232	#808080	Representative genomes
+ERR3325248	#808080	Representative genomes
+ERR3325250	#808080	Representative genomes
+ERR3325260	#808080	Representative genomes
+ERR3325272	#808080	Representative genomes
+ERR3325321	#808080	Representative genomes
+ERR3325347	#808080	Representative genomes
+ERR3325360	#808080	Representative genomes
+ERR3325394	#808080	Representative genomes
+ERR3325429	#808080	Representative genomes
+ERR3325432	#808080	Representative genomes
+ERR3325433	#808080	Representative genomes
+ERR3325488	#808080	Representative genomes
+ERR3325564	#808080	Representative genomes
+ERR3325648	#808080	Representative genomes
+ERR3325658	#808080	Representative genomes
+ERR3325716	#808080	Representative genomes
+ERR3325717	#808080	Representative genomes
+ERR3325732	#808080	Representative genomes
+ERR3325738	#808080	Representative genomes
+ERR3325773	#808080	Representative genomes
+ERR3325790	#808080	Representative genomes
+ERR3325818	#808080	Representative genomes
+ERR3325822	#808080	Representative genomes
+ERR3325855	#808080	Representative genomes
+ERR3325880	#808080	Representative genomes
+ERR3325885	#808080	Representative genomes
+ERR3325990	#808080	Representative genomes
+ERR3326032	#808080	Representative genomes
+ERR3326073	#808080	Representative genomes
+ERR3326123	#808080	Representative genomes
+ERR349887	#808080	Representative genomes
+ERR349888	#808080	Representative genomes
+ERR349890	#808080	Representative genomes
+ERR349891	#808080	Representative genomes
+ERR349892	#808080	Representative genomes
+ERR349895	#808080	Representative genomes
+ERR349897	#808080	Representative genomes
+ERR349900	#808080	Representative genomes
+ERR349912	#808080	Representative genomes
+ERR349916	#808080	Representative genomes
+ERR349918	#808080	Representative genomes
+ERR349923	#808080	Representative genomes
+ERR349926	#808080	Representative genomes
+ERR349932	#808080	Representative genomes
+ERR349951	#808080	Representative genomes
+ERR349960	#808080	Representative genomes
+ERR349961	#808080	Representative genomes
+ERR349970	#808080	Representative genomes
+ERR349971	#808080	Representative genomes
+ERR349976	#808080	Representative genomes
+ERR349978	#808080	Representative genomes
+ERR3577328	#808080	Representative genomes
+ERR3577467	#808080	Representative genomes
+ERR3577528	#808080	Representative genomes
+ERR3577534	#808080	Representative genomes
+ERR3577590	#808080	Representative genomes
+ERR3577830	#808080	Representative genomes
+ERR3577890	#808080	Representative genomes
+ERR3577955	#808080	Representative genomes
+ERR3577970	#808080	Representative genomes
+ERR3577998	#808080	Representative genomes
+ERR3578026	#808080	Representative genomes
+ERR3578054	#808080	Representative genomes
+ERR3578067	#808080	Representative genomes
+ERR3578130	#808080	Representative genomes
+ERR3578134	#808080	Representative genomes
+ERR3578922	#808080	Representative genomes
+ERR3578940	#808080	Representative genomes
+ERR3579023	#808080	Representative genomes
+ERR3579095	#808080	Representative genomes
+ERR3623126	#808080	Representative genomes
+ERR3623134	#808080	Representative genomes
+ERR3623147	#808080	Representative genomes
+ERR3623149	#808080	Representative genomes
+ERR3623152	#808080	Representative genomes
+ERR3623155	#808080	Representative genomes
+ERR3623159	#808080	Representative genomes
+ERR3623168	#808080	Representative genomes
+ERR3623170	#808080	Representative genomes
+ERR3623182	#808080	Representative genomes
+ERR3623184	#808080	Representative genomes
+ERR3623231	#808080	Representative genomes
+ERR3623356	#808080	Representative genomes
+ERR3623361	#808080	Representative genomes
+ERR3623409	#808080	Representative genomes
+ERR3623410	#808080	Representative genomes
+ERR3623414	#808080	Representative genomes
+ERR3623422	#808080	Representative genomes
+ERR3623475	#808080	Representative genomes
+ERR363577	#808080	Representative genomes
+ERR363578	#808080	Representative genomes
+ERR363587	#808080	Representative genomes
+ERR363607	#808080	Representative genomes
+ERR363609	#808080	Representative genomes
+ERR363612	#808080	Representative genomes
+ERR363614	#808080	Representative genomes
+ERR363615	#808080	Representative genomes
+ERR363619	#808080	Representative genomes
+ERR363621	#808080	Representative genomes
+ERR363623	#808080	Representative genomes
+ERR363625	#808080	Representative genomes
+ERR363627	#808080	Representative genomes
+ERR363630	#808080	Representative genomes
+ERR363639	#808080	Representative genomes
+ERR363640	#808080	Representative genomes
+ERR363641	#808080	Representative genomes
+ERR363643	#808080	Representative genomes
+ERR363648	#808080	Representative genomes
+ERR363650	#808080	Representative genomes
+ERR363652	#808080	Representative genomes
+ERR363655	#808080	Representative genomes
+ERR363659	#808080	Representative genomes
+ERR363664	#808080	Representative genomes
+ERR363670	#808080	Representative genomes
+ERR3851511	#808080	Representative genomes
+ERR3851539	#808080	Representative genomes
+ERR3851629	#808080	Representative genomes
+ERR3851636	#808080	Representative genomes
+ERR3851726	#808080	Representative genomes
+ERR3851755	#808080	Representative genomes
+ERR3851804	#808080	Representative genomes
+ERR3851848	#808080	Representative genomes
+ERR388291	#808080	Representative genomes
+ERR388294	#808080	Representative genomes
+ERR388316	#808080	Representative genomes
+ERR388320	#808080	Representative genomes
+ERR388324	#808080	Representative genomes
+ERR388329	#808080	Representative genomes
+ERR388340	#808080	Representative genomes
+ERR388359	#808080	Representative genomes
+ERR388367	#808080	Representative genomes
+ERR388419	#808080	Representative genomes
+ERR388422	#808080	Representative genomes
+ERR388423	#808080	Representative genomes
+ERR388428	#808080	Representative genomes
+ERR388429	#808080	Representative genomes
+ERR388430	#808080	Representative genomes
+ERR388431	#808080	Representative genomes
+ERR388432	#808080	Representative genomes
+ERR388433	#808080	Representative genomes
+ERR388434	#808080	Representative genomes
+ERR388435	#808080	Representative genomes
+ERR388438	#808080	Representative genomes
+ERR388442	#808080	Representative genomes
+ERR388445	#808080	Representative genomes
+ERR388446	#808080	Representative genomes
+ERR388447	#808080	Representative genomes
+ERR388448	#808080	Representative genomes
+ERR388449	#808080	Representative genomes
+ERR388451	#808080	Representative genomes
+ERR388452	#808080	Representative genomes
+ERR388454	#808080	Representative genomes
+ERR439284	#808080	Representative genomes
+ERR439285	#808080	Representative genomes
+ERR439287	#808080	Representative genomes
+ERR439288	#808080	Representative genomes
+ERR439292	#808080	Representative genomes
+ERR439293	#808080	Representative genomes
+ERR439295	#808080	Representative genomes
+ERR439304	#808080	Representative genomes
+ERR439305	#808080	Representative genomes
+ERR439307	#808080	Representative genomes
+ERR439308	#808080	Representative genomes
+ERR439309	#808080	Representative genomes
+ERR439311	#808080	Representative genomes
+ERR439312	#808080	Representative genomes
+ERR439313	#808080	Representative genomes
+ERR439315	#808080	Representative genomes
+ERR439319	#808080	Representative genomes
+ERR439320	#808080	Representative genomes
+ERR439321	#808080	Representative genomes
+ERR439323	#808080	Representative genomes
+ERR439324	#808080	Representative genomes
+ERR439325	#808080	Representative genomes
+ERR439326	#808080	Representative genomes
+ERR439327	#808080	Representative genomes
+ERR439329	#808080	Representative genomes
+ERR439334	#808080	Representative genomes
+ERR439335	#808080	Representative genomes
+ERR439336	#808080	Representative genomes
+ERR439337	#808080	Representative genomes
+ERR439338	#808080	Representative genomes
+ERR439342	#808080	Representative genomes
+ERR439344	#808080	Representative genomes
+ERR439348	#808080	Representative genomes
+ERR439349	#808080	Representative genomes
+ERR439351	#808080	Representative genomes
+ERR439356	#808080	Representative genomes
+ERR439359	#808080	Representative genomes
+ERR439362	#808080	Representative genomes
+ERR439364	#808080	Representative genomes
+ERR439367	#808080	Representative genomes
+ERR439371	#808080	Representative genomes
+ERR439373	#808080	Representative genomes
+ERR449458	#808080	Representative genomes
+ERR449460	#808080	Representative genomes
+ERR449480	#808080	Representative genomes
+ERR449482	#808080	Representative genomes
+ERR449483	#808080	Representative genomes
+ERR449484	#808080	Representative genomes
+ERR449486	#808080	Representative genomes
+ERR449491	#808080	Representative genomes
+ERR449492	#808080	Representative genomes
+ERR449493	#808080	Representative genomes
+ERR449496	#808080	Representative genomes
+ERR449497	#808080	Representative genomes
+ERR449500	#808080	Representative genomes
+ERR449505	#808080	Representative genomes
+ERR449514	#808080	Representative genomes
+ERR449524	#808080	Representative genomes
+ERR449553	#808080	Representative genomes
+ERR449554	#808080	Representative genomes
+ERR449555	#808080	Representative genomes
+ERR449556	#808080	Representative genomes
+ERR449559	#808080	Representative genomes
+ERR449562	#808080	Representative genomes
+ERR449565	#808080	Representative genomes
+ERR449566	#808080	Representative genomes
+ERR449569	#808080	Representative genomes
+ERR449571	#808080	Representative genomes
+ERR449572	#808080	Representative genomes
+ERR449574	#808080	Representative genomes
+ERR449578	#808080	Representative genomes
+ERR449582	#808080	Representative genomes
+ERR449585	#808080	Representative genomes
+ERR4776618	#808080	Representative genomes
+ERR4776759	#808080	Representative genomes
+ERR4776783	#808080	Representative genomes
+ERR485166	#808080	Representative genomes
+ERR502176	#808080	Representative genomes
+ERR502180	#808080	Representative genomes
+ERR502182	#808080	Representative genomes
+ERR502185	#808080	Representative genomes
+ERR502198	#808080	Representative genomes
+ERR502211	#808080	Representative genomes
+ERR502212	#808080	Representative genomes
+ERR502213	#808080	Representative genomes
+ERR502215	#808080	Representative genomes
+ERR502217	#808080	Representative genomes
+ERR502221	#808080	Representative genomes
+ERR502223	#808080	Representative genomes
+ERR502227	#808080	Representative genomes
+ERR502228	#808080	Representative genomes
+ERR502233	#808080	Representative genomes
+ERR502235	#808080	Representative genomes
+ERR775141	#808080	Representative genomes
+ERR775147	#808080	Representative genomes
+ERR779758	#808080	Representative genomes
+ERR779772	#808080	Representative genomes
+ERR779774	#808080	Representative genomes
+ERR779802	#808080	Representative genomes
+ERR779820	#808080	Representative genomes
+ERR779821	#808080	Representative genomes
+ERR779836	#808080	Representative genomes
+ERR779837	#808080	Representative genomes
+ERR7975736	#808080	Representative genomes
+ERR7975916	#808080	Representative genomes
+ERR7975942	#808080	Representative genomes
+ERR7975949	#808080	Representative genomes
+ERR7976024	#808080	Representative genomes
+ERR7976087	#808080	Representative genomes
+ERR7976204	#808080	Representative genomes
+ERR7976264	#808080	Representative genomes
+ERR7977494	#808080	Representative genomes
+ERR7977637	#808080	Representative genomes
+ERR7977641	#808080	Representative genomes
+ERR7977644	#808080	Representative genomes
+ERR7985858	#808080	Representative genomes
+ERR7985863	#808080	Representative genomes
+ERR7985866	#808080	Representative genomes
+ERR7986114	#808080	Representative genomes
+ERR7986118	#808080	Representative genomes
+ERR7986122	#808080	Representative genomes
+ERR7986133	#808080	Representative genomes
+ERR7986565	#808080	Representative genomes
+ERR7986758	#808080	Representative genomes
+ERR7986854	#808080	Representative genomes
+ERR7987167	#808080	Representative genomes
+ERR7987170	#808080	Representative genomes
+ERR7987388	#808080	Representative genomes
+ERR7993907	#808080	Representative genomes
+ERR9668845	#808080	Representative genomes
+ERR9668912	#808080	Representative genomes
+ERR9668921	#808080	Representative genomes
+ERR9668925	#808080	Representative genomes
+ERR9668940	#808080	Representative genomes
+ERR9668944	#808080	Representative genomes
+ERR9668972	#808080	Representative genomes
+ERR9668981	#808080	Representative genomes
+ERR9668982	#808080	Representative genomes
+ERR9668983	#808080	Representative genomes
+ERR9668986	#808080	Representative genomes
+ERR9668990	#808080	Representative genomes
+ERR9668994	#808080	Representative genomes
+ERR9669000	#808080	Representative genomes
+ERR9669009	#808080	Representative genomes
+ERR9669012	#808080	Representative genomes
+ERR9669015	#808080	Representative genomes
+ERR9669016	#808080	Representative genomes
+ERR976912	#808080	Representative genomes
+ERR976923	#808080	Representative genomes
+ERR9837161	#808080	Representative genomes
+ERR9837200	#808080	Representative genomes
+ERR9837244	#808080	Representative genomes
+ERR9837340	#808080	Representative genomes
+ERR9837360	#808080	Representative genomes
+ERR9837378	#808080	Representative genomes
+ERR9837436	#808080	Representative genomes
+ERR9837541	#808080	Representative genomes
+ERR9837562	#808080	Representative genomes
+ERR9837614	#808080	Representative genomes
+ERR9837719	#808080	Representative genomes
+ERR9837788	#808080	Representative genomes
+ERR9837801	#808080	Representative genomes
+ERR9837827	#808080	Representative genomes
+ERR9837890	#808080	Representative genomes
+ERR9837901	#808080	Representative genomes
+ERR9837911	#808080	Representative genomes
+ERR9837941	#808080	Representative genomes
+ERR9838019	#808080	Representative genomes
+ERR9838108	#808080	Representative genomes
+ERR9838204	#808080	Representative genomes
+ERR9838261	#808080	Representative genomes
+ERR9838323	#808080	Representative genomes
+ERR9838326	#808080	Representative genomes
+ERR9838399	#808080	Representative genomes
+ERR9838419	#808080	Representative genomes
+ERR9838455	#808080	Representative genomes
+ERR9838458	#808080	Representative genomes
+ERR9838460	#808080	Representative genomes
+ERR9838508	#808080	Representative genomes
+ERR9838513	#808080	Representative genomes
+ERR9838543	#808080	Representative genomes
+ERR9838553	#808080	Representative genomes
+ERR9838554	#808080	Representative genomes
+ERR9838656	#808080	Representative genomes
+ERR9838727	#808080	Representative genomes
+ERR9838745	#808080	Representative genomes
+ERR9838746	#808080	Representative genomes
+ERR9838748	#808080	Representative genomes
+ERR9838756	#808080	Representative genomes
+ERR9838776	#808080	Representative genomes
+ERR9838867	#808080	Representative genomes
+ERR9838909	#808080	Representative genomes
+ERR9838966	#808080	Representative genomes
+ERR9838975	#808080	Representative genomes
+ERR9839008	#808080	Representative genomes
+ERR9839012	#808080	Representative genomes
+ERR9839020	#808080	Representative genomes
+ERR9839060	#808080	Representative genomes
+ERR9839096	#808080	Representative genomes
+ERR9839159	#808080	Representative genomes
+ERR9839204	#808080	Representative genomes
+ERR9839221	#808080	Representative genomes
+ERR9839224	#808080	Representative genomes
+ERR9839240	#808080	Representative genomes
+ERR9839275	#808080	Representative genomes
+ERR9839301	#808080	Representative genomes
+ERR9839385	#808080	Representative genomes
+ERR9839397	#808080	Representative genomes
+ERR9839412	#808080	Representative genomes
+ERR9839429	#808080	Representative genomes
+ERR9839443	#808080	Representative genomes
+FA1090	#808080	Representative genomes
+FA19	#808080	Representative genomes
+FFF007	#808080	Representative genomes
+FFF012	#808080	Representative genomes
+FFF017	#808080	Representative genomes
+FFF023	#808080	Representative genomes
+FFF041	#808080	Representative genomes
+FFF044	#808080	Representative genomes
+FFF047	#808080	Representative genomes
+FL14	#808080	Representative genomes
+FL17	#808080	Representative genomes
+FL36	#808080	Representative genomes
+FL43	#808080	Representative genomes
+FL44	#808080	Representative genomes
+GCGS0072	#808080	Representative genomes
+GCGS0154	#808080	Representative genomes
+GCGS0200	#808080	Representative genomes
+GCGS0245	#808080	Representative genomes
+GCGS0248	#808080	Representative genomes
+GCGS0292	#808080	Representative genomes
+GCGS0295	#808080	Representative genomes
+GCGS0296	#808080	Representative genomes
+GCGS0304	#808080	Representative genomes
+GCGS0305	#808080	Representative genomes
+GCGS0306	#808080	Representative genomes
+GCGS0307	#808080	Representative genomes
+GCGS0313	#808080	Representative genomes
+GCGS0317	#808080	Representative genomes
+GCGS0347	#808080	Representative genomes
+GCGS0348	#808080	Representative genomes
+GCGS0362	#808080	Representative genomes
+GCGS0369	#808080	Representative genomes
+GCGS0373	#808080	Representative genomes
+GCGS0377	#808080	Representative genomes
+GCGS0423	#808080	Representative genomes
+GCGS0432	#808080	Representative genomes
+GCGS0438	#808080	Representative genomes
+GCGS0439	#808080	Representative genomes
+GCGS0440	#808080	Representative genomes
+GCGS0454	#808080	Representative genomes
+GCGS0465	#808080	Representative genomes
+GCGS0471	#808080	Representative genomes
+GCGS0472	#808080	Representative genomes
+GCGS0474	#808080	Representative genomes
+GCGS0509	#808080	Representative genomes
+GCGS0515	#808080	Representative genomes
+GCGS0525	#808080	Representative genomes
+GCGS0529	#808080	Representative genomes
+GCGS0599	#808080	Representative genomes
+GCGS0620	#808080	Representative genomes
+GCGS0624	#808080	Representative genomes
+GCGS0680	#808080	Representative genomes
+GCGS0709	#808080	Representative genomes
+GCGS0726	#808080	Representative genomes
+GCGS0749	#808080	Representative genomes
+GCGS0782	#808080	Representative genomes
+GCGS0819	#808080	Representative genomes
+GCGS0839	#808080	Representative genomes
+GCGS0860	#808080	Representative genomes
+GCGS0870	#808080	Representative genomes
+GCGS1029	#808080	Representative genomes
+GCGS1035	#808080	Representative genomes
+GCs13M	#fdbf6f	Ethiopia
+GCs14N	#fdbf6f	Ethiopia
+GCs18R	#fdbf6f	Ethiopia
+GCs21U	#fdbf6f	Ethiopia
+GCs24X	#fdbf6f	Ethiopia
+GCs33G	#fdbf6f	Ethiopia
+GCs47U	#fdbf6f	Ethiopia
+GCs48V	#fdbf6f	Ethiopia
+GCs54C	#fdbf6f	Ethiopia
+GGG006	#808080	Representative genomes
+GGG020	#808080	Representative genomes
+GGG022	#808080	Representative genomes
+GGG026	#808080	Representative genomes
+GGG031	#808080	Representative genomes
+GGG036	#808080	Representative genomes
+GGG042	#808080	Representative genomes
+HHH001	#808080	Representative genomes
+HHH013	#808080	Representative genomes
+HHH018	#808080	Representative genomes
+HHH038	#808080	Representative genomes
+HHH042	#808080	Representative genomes
+HHH044	#808080	Representative genomes
+JJJ010	#808080	Representative genomes
+JJJ020	#808080	Representative genomes
+JJJ024	#808080	Representative genomes
+LLL004	#808080	Representative genomes
+LLL016	#808080	Representative genomes
+LLL017	#808080	Representative genomes
+LLL020	#808080	Representative genomes
+LLL023	#808080	Representative genomes
+LLL029	#808080	Representative genomes
+LLL045	#808080	Representative genomes
+LLL046	#808080	Representative genomes
+LLL049	#808080	Representative genomes
+MA30	#808080	Representative genomes
+MA43	#808080	Representative genomes
+MA45	#808080	Representative genomes
+MA65	#808080	Representative genomes
+MA73	#808080	Representative genomes
+MMM005	#808080	Representative genomes
+Ng_140	#808080	Representative genomes
+Ng_188	#808080	Representative genomes
+POA37	#808080	Representative genomes
+POA56	#808080	Representative genomes
+POA58	#808080	Representative genomes
+SP22	#808080	Representative genomes
+SRR10619218	#808080	Representative genomes
+SRR11903859	#808080	Representative genomes
+SRR11903915	#808080	Representative genomes
+SRR11903919	#808080	Representative genomes
+SRR11904001	#808080	Representative genomes
+SRR11904209	#808080	Representative genomes
+SRR11904217	#808080	Representative genomes
+SRR11904221	#808080	Representative genomes
+SRR11904288	#808080	Representative genomes
+SRR11904417	#808080	Representative genomes
+SRR11904545	#808080	Representative genomes
+SRR11904572	#808080	Representative genomes
+SRR11904618	#808080	Representative genomes
+SRR11904810	#808080	Representative genomes
+SRR11904845	#808080	Representative genomes
+SRR11904906	#808080	Representative genomes
+SRR13300785	#808080	Representative genomes
+SRR13300789	#808080	Representative genomes
+SRR13300793	#808080	Representative genomes
+SRR13300795	#808080	Representative genomes
+SRR13300796	#808080	Representative genomes
+SRR13305401	#808080	Representative genomes
+SRR13305402	#808080	Representative genomes
+SRR13305403	#808080	Representative genomes
+SRR13305407	#808080	Representative genomes
+SRR13305408	#808080	Representative genomes
+SRR13305414	#808080	Representative genomes
+SRR13305415	#808080	Representative genomes
+SRR13305419	#808080	Representative genomes
+SRR13305420	#808080	Representative genomes
+SRR13305428	#808080	Representative genomes
+SRR13305429	#808080	Representative genomes
+SRR13305432	#808080	Representative genomes
+SRR13305433	#808080	Representative genomes
+SRR13305434	#808080	Representative genomes
+SRR13305435	#808080	Representative genomes
+SRR13305439	#808080	Representative genomes
+SRR13305446	#808080	Representative genomes
+SRR13429227	#808080	Representative genomes
+SRR13429245	#808080	Representative genomes
+SRR13429265	#808080	Representative genomes
+SRR1661154	#808080	Representative genomes
+SRR1661156	#808080	Representative genomes
+SRR1661157	#808080	Representative genomes
+SRR1661179	#808080	Representative genomes
+SRR1661182	#808080	Representative genomes
+SRR1661263	#808080	Representative genomes
+SRR1661291	#808080	Representative genomes
+SRR1661319	#808080	Representative genomes
+SRR1661322	#808080	Representative genomes
+SRR2736105	#808080	Representative genomes
+SRR2736118	#808080	Representative genomes
+SRR2736142	#808080	Representative genomes
+SRR2736154	#808080	Representative genomes
+SRR3343540	#808080	Representative genomes
+SRR3349197	#808080	Representative genomes
+SRR3349919	#808080	Representative genomes
+SRR3350180	#808080	Representative genomes
+SRR3357289	#808080	Representative genomes
+SRR3360629	#808080	Representative genomes
+SRR3360630	#808080	Representative genomes
+SRR3360647	#808080	Representative genomes
+SRR3360677	#808080	Representative genomes
+SRR3360687	#808080	Representative genomes
+SRR3360688	#808080	Representative genomes
+SRR3360713	#808080	Representative genomes
+SRR3360872	#808080	Representative genomes
+SRR3360876	#808080	Representative genomes
+SRR3360890	#808080	Representative genomes
+SRR3360982	#808080	Representative genomes
+SRR3361352	#808080	Representative genomes
+SRR3361357	#808080	Representative genomes
+SRR5827030	#808080	Representative genomes
+SRR5827058	#808080	Representative genomes
+SRR5827063	#808080	Representative genomes
+SRR5827065	#808080	Representative genomes
+SRR5827092	#808080	Representative genomes
+SRR5827097	#808080	Representative genomes
+SRR5827098	#808080	Representative genomes
+SRR5827134	#808080	Representative genomes
+SRR5827167	#808080	Representative genomes
+SRR5827182	#808080	Representative genomes
+SRR5827185	#808080	Representative genomes
+SRR5827190	#808080	Representative genomes
+SRR5827195	#808080	Representative genomes
+SRR5827197	#808080	Representative genomes
+SRR5827214	#808080	Representative genomes
+SRR5827229	#808080	Representative genomes
+SRR5827236	#808080	Representative genomes
+SRR5827243	#808080	Representative genomes
+SRR5827245	#808080	Representative genomes
+SRR5827299	#808080	Representative genomes
+SRR5827322	#808080	Representative genomes
+SRR5827331	#808080	Representative genomes
+SRR5827339	#808080	Representative genomes
+SRR5827341	#808080	Representative genomes
+SRR5827361	#808080	Representative genomes
+SRR5827369	#808080	Representative genomes
+SRR6765303	#808080	Representative genomes
+SRR6765310	#808080	Representative genomes
+SRR6765319	#808080	Representative genomes
+SRR6765375	#808080	Representative genomes
+SRR6765381	#808080	Representative genomes
+SRR6765394	#808080	Representative genomes
+SRR6765429	#808080	Representative genomes
+SRR6765489	#808080	Representative genomes
+SRR6765490	#808080	Representative genomes
+SRR6765497	#808080	Representative genomes
+SRR6765518	#808080	Representative genomes
+SRR6765531	#808080	Representative genomes
+SRR6765536	#808080	Representative genomes
+SRR6765563	#808080	Representative genomes
+SRR6765565	#808080	Representative genomes
+SRR6765617	#808080	Representative genomes
+SRR6765668	#808080	Representative genomes
+SRR7401678	#808080	Representative genomes
+SRR8071056	#808080	Representative genomes
+SRR8071121	#808080	Representative genomes
+SRR8071350	#808080	Representative genomes
+SRR8079765	#808080	Representative genomes
+SRR8172041	#808080	Representative genomes
+SRR955973	#808080	Representative genomes
+SRR959017	#808080	Representative genomes
+SRR960561	#808080	Representative genomes
+SRR969353	#808080	Representative genomes
+SRR9877818	#808080	Representative genomes
+SRR9877820	#808080	Representative genomes
+SRR9878109	#808080	Representative genomes
+SRR9985630	#808080	Representative genomes
+SRR9985746	#808080	Representative genomes
+SRR9985872	#808080	Representative genomes
