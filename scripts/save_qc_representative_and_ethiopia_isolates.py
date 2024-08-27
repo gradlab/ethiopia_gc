@@ -6,7 +6,7 @@ metadata = pd.read_csv('/n/holylfs05/LABS/grad_lab/Lab/repos/gc_genomics/metadat
 
 # Merge and save
 rep_isolates_metadata = rep_isolates.merge(metadata, on = 'wgs_id', how = 'left')
-rep_isolates_metadata = rep_isolates_metadata[['wgs_id', 'accession', 'names', 'date', 'continent', 'assembly_length', 'assembly_coverage', 'contigs', 'reference_coverage', 'reference_percentage_mapped', 'percent_missing']]
+rep_isolates_metadata = rep_isolates_metadata[['wgs_id', 'accession', 'names', 'reference', 'date', 'continent', 'assembly_length', 'assembly_coverage', 'contigs', 'reference_coverage', 'reference_percentage_mapped', 'percent_missing']]
 
 rep_isolates_metadata.to_csv('../data/isolates_summary_and_qc/representative_isolates_accession_and_qc.csv', index = None)
 
