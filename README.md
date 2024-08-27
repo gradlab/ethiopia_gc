@@ -12,3 +12,8 @@ scripts/
   snakemake_pipelines/gc_genomics/
     Code for genome assembly
 ```
+
+Interactive tree figures from the `figures/` folder can be found on iTOL:
+* Tree of representative global isolates with Ethiopian isolates: https://itol.embl.de/tree/134174181153161301724684611#
+* Tree of MLST1587: https://itol.embl.de/tree/65112831254411718988217
+* Tree of MLST7827: https://itol.embl.de/tree/65112831259931718988279
