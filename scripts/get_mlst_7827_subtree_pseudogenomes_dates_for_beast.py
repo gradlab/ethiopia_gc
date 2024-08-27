@@ -5,7 +5,7 @@ import numpy as np
 f = open("../data/gubbins/mlst/7827/pseudogenome_alignment_mlst_7827.final_tree.tre", "r")
 tree = (f.read())
 
-# Split the tree at the most basal branch into lineages A and B
+# Split the tree to get the subtree
 subtree = tree.split('431.070801,')[1]
 
 # Get the isolates in subtree
