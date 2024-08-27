@@ -640,15 +640,6 @@ GCGS0860	#de77ae	F
 GCGS0870	#fde0ef	S
 GCGS1029	#de77ae	F
 GCGS1035	#de77ae	F
-GCs13M	#de77ae	F
-GCs14N	#fde0ef	S
-GCs18R	#de77ae	F
-GCs21U	#de77ae	F
-GCs24X	#de77ae	F
-GCs33G	#de77ae	F
-GCs47U	#de77ae	F
-GCs48V	#de77ae	F
-GCs54C	#de77ae	F
 GGG006	#de77ae	F
 GGG020	#de77ae	F
 GGG022	#de77ae	F

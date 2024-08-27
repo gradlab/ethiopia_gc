@@ -8,8 +8,8 @@ f = open("../data/gubbins/ethiopia_representative_isolates/ethiopia_representati
 tree = (f.read())
 
 # Split the tree at the most basal branch into lineages A and B
-linA_str = tree.split('18.283104,')[0]
-linB_str = tree.split('18.283104,')[1]
+linA_str = tree.split('6.537267,')[1]
+linB_str = tree.split('6.537267,')[0]
 
 # Get the isolates in lineage A
 linA_str = linA_str.replace('(', '').replace(')', '').split(',')

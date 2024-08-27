@@ -640,15 +640,6 @@ GCGS0860	#808080	Representative genomes
 GCGS0870	#808080	Representative genomes
 GCGS1029	#808080	Representative genomes
 GCGS1035	#808080	Representative genomes
-GCs13M	#fdbf6f	Ethiopia
-GCs14N	#fdbf6f	Ethiopia
-GCs18R	#fdbf6f	Ethiopia
-GCs21U	#fdbf6f	Ethiopia
-GCs24X	#fdbf6f	Ethiopia
-GCs33G	#fdbf6f	Ethiopia
-GCs47U	#fdbf6f	Ethiopia
-GCs48V	#fdbf6f	Ethiopia
-GCs54C	#fdbf6f	Ethiopia
 GGG006	#808080	Representative genomes
 GGG020	#808080	Representative genomes
 GGG022	#808080	Representative genomes

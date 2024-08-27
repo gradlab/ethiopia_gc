@@ -12,10 +12,7 @@ for path in pseudogenome_paths:
     paths.append("/".join(path.split('/')[:-2]))
     
 unique_paths = np.unique(paths)
-print(unique_paths)
 unique_paths = np.append(unique_paths, '/n/grad_lab2/Lab/gonococcus/datasets/ethiopia_isolates')
-
-print(unique_paths)
 
 resistance_paths = []
 for path in unique_paths:
@@ -35,8 +32,6 @@ ethiopia_isolates = pd.read_csv('../data/ethiopia_isolates.txt', sep = '\t', hea
 contemp_global_isolates = pd.read_csv('../data/gubbins/ethiopia_representative_isolates/representative_isolates.txt', sep = '\t', header = None, names = ['wgs_id'])
 isolates = pd.concat([ethiopia_isolates, contemp_global_isolates])
 
-print(isolates)
-
 merged = isolates.merge(resistance_df, on = 'wgs_id', how = 'left')
 
 merged.drop_duplicates(inplace = True, ignore_index = True)
@@ -46,7 +41,6 @@ merged['PBP1_421'] = merged['PBP1_421'].fillna(value = 'NA')
 
 merged['wgs_id'] = merged['wgs_id'].str.replace('#', '_')
 
-print(merged)
 # Write itol for GyrA_91
 
 legend = merged[['wgs_id', 'GyrA_91']]

@@ -640,15 +640,6 @@ GCGS0860	#33a02c	North America
 GCGS0870	#33a02c	North America
 GCGS1029	#33a02c	North America
 GCGS1035	#33a02c	North America
-GCs13M	#a6cee3	Africa
-GCs14N	#a6cee3	Africa
-GCs18R	#a6cee3	Africa
-GCs21U	#a6cee3	Africa
-GCs24X	#a6cee3	Africa
-GCs33G	#a6cee3	Africa
-GCs47U	#a6cee3	Africa
-GCs48V	#a6cee3	Africa
-GCs54C	#a6cee3	Africa
 GGG006	#1f78b4	Asia
 GGG020	#1f78b4	Asia
 GGG022	#1f78b4	Asia
