@@ -13,4 +13,4 @@ wgs_id_eth = wgs_id_all[wgs_id_all.str.contains('Eth')]
 wgs_id_rep = wgs_id_all[~wgs_id_all.str.contains('Eth')]
 
 # Checking if there are any genes where the representative isolates don't have the accessory genes but the Ethiopian isolates do
-panaroo[panaroo[wgs_id_rep].isnull().all(axis = 'columns')][wgs_id_eth].values
+print(panaroo[panaroo[wgs_id_rep].isnull().all(axis = 'columns')][wgs_id_eth].values)
