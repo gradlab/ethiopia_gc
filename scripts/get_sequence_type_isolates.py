@@ -78,7 +78,7 @@ for i, row in top_ethiopia_mlst.iterrows():
     global_mlst['pseudogenome_path'] = '/' + pseudogenome_path_split[1] + '/' + pseudogenome_path_split[2] + '/' + pseudogenome_path_split[3] + '/' + pseudogenome_path_split[4] + '/' + pseudogenome_path_split[5] + '/' + pseudogenome_path_split[6] + '/' + pseudogenome_path_split[7] + '_pseudogenome.fasta'
     global_mlst['alternate_pseudogenome_path'] = '/' + pseudogenome_path_split[1] + '/' + pseudogenome_path_split[2] + '/' + pseudogenome_path_split[3] + '/' + pseudogenome_path_split[4] + '/' + pseudogenome_path_split[5] + '/' + pseudogenome_path_split[6] + '/' + pseudogenome_path_split[7] + '.fasta'
     print('MLST:', row['MLST'], ', num genomes:', len(global_mlst))
-    mlst_scratch_path = '/n/holyscratch01/grad_lab/Users/qinqinyu/20240620_tree_ethiopia_isolates_sequence_types/' + 'mlst_' + row['MLST']
+    mlst_scratch_path = '/n/netscratch/grad_lab/Lab/qinqinyu/20251020_tree_ethiopia_isolates_sequence_types/' + 'mlst_' + row['MLST']
     if not os.path.exists(mlst_scratch_path):
         os.mkdir(mlst_scratch_path)
         os.mkdir(mlst_scratch_path + '/pseudogenomes')
@@ -107,7 +107,7 @@ for i, row in top_ethiopia_ngstar.iterrows():
     global_ngstar['pseudogenome_path'] = '/' + pseudogenome_path_split[1] + '/' + pseudogenome_path_split[2] + '/' + pseudogenome_path_split[3] + '/' + pseudogenome_path_split[4] + '/' + pseudogenome_path_split[5] + '/' + pseudogenome_path_split[6] + '/' + pseudogenome_path_split[7] + '_pseudogenome.fasta'
     global_ngstar['alternate_pseudogenome_path'] = '/' + pseudogenome_path_split[1] + '/' + pseudogenome_path_split[2] + '/' + pseudogenome_path_split[3] + '/' + pseudogenome_path_split[4] + '/' + pseudogenome_path_split[5] + '/' + pseudogenome_path_split[6] + '/' + pseudogenome_path_split[7] + '.fasta'
     print('NG-STAR:', row['NG-STAR'], ', num genomes:', len(global_ngstar))
-    ngstar_scratch_path = '/n/holyscratch01/grad_lab/Users/qinqinyu/20240620_tree_ethiopia_isolates_sequence_types/' + 'ngstar_' + row['NG-STAR']
+    ngstar_scratch_path = '/n/netscratch/grad_lab/Lab/qinqinyu/20251020_tree_ethiopia_isolates_sequence_types/' + 'ngstar_' + row['NG-STAR']
     if not os.path.exists(ngstar_scratch_path):
         os.mkdir(ngstar_scratch_path)
         os.mkdir(ngstar_scratch_path + '/pseudogenomes')

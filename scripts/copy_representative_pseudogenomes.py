@@ -6,7 +6,7 @@ import glob
 
 paths = pd.read_csv('../data/gubbins/ethiopia_representative_isolates/representative_isolates_pseudogenome_paths.txt', header = None)[0].values
 for path in paths:
-    shutil.copy(path, '/n/holyscratch01/grad_lab/Users/qinqinyu/20240816_tree_ethiopia_representative_isolates/pseudogenomes/')
+    shutil.copy(path, '/n/netscratch/grad_lab/Lab/qinqinyu/20251009_tree_ethiopia_representative_isolates/pseudogenomes/')
     
 # Copy Ethiopian isolates
 
@@ -16,4 +16,4 @@ paths = glob.glob('/n/grad_lab2/Lab/gonococcus/datasets/ethiopia_isolates/pseudo
 paths.remove('/n/grad_lab2/Lab/gonococcus/datasets/ethiopia_isolates/pseudogenomes/Eth14-2022_pseudogenome.fasta')
 
 for path in paths:
-    shutil.copy(path, '/n/holyscratch01/grad_lab/Users/qinqinyu/20240816_tree_ethiopia_representative_isolates/pseudogenomes/')
+    shutil.copy(path, '/n/netscratch/grad_lab/Lab/qinqinyu/20251009_tree_ethiopia_representative_isolates/pseudogenomes/')
