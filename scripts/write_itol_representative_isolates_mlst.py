@@ -20,7 +20,7 @@ mlst.drop('strain', axis = 'columns', inplace = True)
 merged = isolates.merge(mlst, on = 'wgs_id')
 
 # Only show MLST 7827 and 1587 (most common MLSTs in Ethiopian isolates)
-merged.at[(merged['MLST']!='7827')&(merged['MLST']!='1587'),'MLST'] = 'NA'
+merged.loc[(merged['MLST']!='7827')&(merged['MLST']!='1587'),'MLST'] = 'NA'
 
 # Write itol
 legend = merged.copy()
