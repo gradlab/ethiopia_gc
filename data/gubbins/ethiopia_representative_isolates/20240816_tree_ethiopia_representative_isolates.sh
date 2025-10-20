@@ -2,7 +2,7 @@
 #SBATCH -p intermediate
 #SBATCH -c 12
 #SBATCH -t 14-00:00
-#SBATCH --mem-per-cpu=12G
+#SBATCH --mem=20G
 #SBATCH -o 20240816_tree_ethiopia_representative_isolates.out
 #SBATCH -e 20240816_tree_ethiopia_representative_isolates.err
 #SBATCH --mail-type=END
