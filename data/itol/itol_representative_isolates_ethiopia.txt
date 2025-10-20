@@ -74,6 +74,7 @@ Eth76-2023	#fdbf6f	Ethiopia
 Eth77-2023	#fdbf6f	Ethiopia
 Eth78-2023	#fdbf6f	Ethiopia
 Eth79-2023	#fdbf6f	Ethiopia
+Eth80-2023	#fdbf6f	Ethiopia
 Eth81-2023	#fdbf6f	Ethiopia
 Eth82-2023	#fdbf6f	Ethiopia
 Eth83-2023	#fdbf6f	Ethiopia

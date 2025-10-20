@@ -74,6 +74,7 @@ Eth76-2023	#a6cee3	Africa
 Eth77-2023	#a6cee3	Africa
 Eth78-2023	#a6cee3	Africa
 Eth79-2023	#a6cee3	Africa
+Eth80-2023	#a6cee3	Africa
 Eth81-2023	#a6cee3	Africa
 Eth82-2023	#a6cee3	Africa
 Eth83-2023	#a6cee3	Africa

@@ -74,6 +74,7 @@ Eth76-2023	darkgoldenrod	7827
 Eth77-2023	violet	1587
 Eth78-2023	violet	1587
 Eth79-2023	violet	1587
+Eth80-2023	violet	1587
 Eth81-2023	violet	1587
 Eth82-2023	violet	1587
 Eth83-2023	darkgoldenrod	7827
