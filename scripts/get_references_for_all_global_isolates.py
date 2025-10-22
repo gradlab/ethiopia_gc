@@ -3,7 +3,7 @@ import numpy as np
 
 # Save table of number of isolates from each reference
 
-metadata = pd.read_csv('/n/holylfs05/LABS/grad_lab/Lab/repos/gc_genomics/metadata/Ng-Combined-Metadata.txt', sep = '\t')
+metadata = pd.read_csv('../data/isolates_summary_and_qc/Ng-Combined-Metadata_20240620.txt', sep = '\t')
 
 # Drop Ethiopian isolates
 metadata = metadata[(metadata['reference']!='ethiopia_isolates')&(metadata['reference']!='ethiopia_isolates_grad_lab')]
@@ -29,3 +29,5 @@ for reference, df in metadata_qc.groupby('reference'):
 # Save results
 global_isolates_summary = pd.DataFrame({'reference':references, 'num_isolates':num_isolates})
 global_isolates_summary.to_csv('../data/isolates_summary_and_qc/references_for_all_global_isolates.csv')
+
+metadata_qc.to_csv('../data/isolates_summary_and_qc/global_isolates_metadata_met_qc.csv', index=False)
