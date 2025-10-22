@@ -67,6 +67,7 @@
 /n/grad_lab2/Lab/gonococcus/datasets/ethiopia_isolates/pseudogenomes/Eth77-2023_pseudogenome.fasta
 /n/grad_lab2/Lab/gonococcus/datasets/ethiopia_isolates/pseudogenomes/Eth78-2023_pseudogenome.fasta
 /n/grad_lab2/Lab/gonococcus/datasets/ethiopia_isolates/pseudogenomes/Eth79-2023_pseudogenome.fasta
+/n/grad_lab2/Lab/gonococcus/datasets/ethiopia_isolates/pseudogenomes/Eth80-2023_pseudogenome.fasta
 /n/grad_lab2/Lab/gonococcus/datasets/ethiopia_isolates/pseudogenomes/Eth81-2023_pseudogenome.fasta
 /n/grad_lab2/Lab/gonococcus/datasets/ethiopia_isolates/pseudogenomes/Eth82-2023_pseudogenome.fasta
 /n/grad_lab2/Lab/gonococcus/datasets/ethiopia_isolates/pseudogenomes/Eth84-2023_pseudogenome.fasta

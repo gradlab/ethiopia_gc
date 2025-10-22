@@ -83,6 +83,7 @@ Eth73-2023	#fdbf6f	Ethiopia
 Eth77-2023	#fdbf6f	Ethiopia
 Eth78-2023	#fdbf6f	Ethiopia
 Eth79-2023	#fdbf6f	Ethiopia
+Eth80-2023	#fdbf6f	Ethiopia
 Eth81-2023	#fdbf6f	Ethiopia
 Eth82-2023	#fdbf6f	Ethiopia
 Eth84-2023	#fdbf6f	Ethiopia
@@ -220,6 +221,7 @@ ERR3578903	#808080	Not Ethiopia
 ERR3578947	#808080	Not Ethiopia
 ERR3579058	#808080	Not Ethiopia
 ERR2799268	#808080	Not Ethiopia
+SRR19962573	#808080	Not Ethiopia
 SRR19962573	#808080	Not Ethiopia
 AUNG1061	#808080	Not Ethiopia
 AUNG114	#808080	Not Ethiopia

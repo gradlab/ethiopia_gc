@@ -83,6 +83,7 @@ Eth73-2023	#a6cee3	Africa
 Eth77-2023	#a6cee3	Africa
 Eth78-2023	#a6cee3	Africa
 Eth79-2023	#a6cee3	Africa
+Eth80-2023	#a6cee3	Africa
 Eth81-2023	#a6cee3	Africa
 Eth82-2023	#a6cee3	Africa
 Eth84-2023	#a6cee3	Africa
@@ -220,6 +221,7 @@ ERR3578903	#b2df8a	Europe
 ERR3578947	#b2df8a	Europe
 ERR3579058	#b2df8a	Europe
 ERR2799268	#1f78b4	Asia
+SRR19962573	#1f78b4	Asia
 SRR19962573	#1f78b4	Asia
 AUNG1061	#fb9a99	Oceania
 AUNG114	#fb9a99	Oceania
