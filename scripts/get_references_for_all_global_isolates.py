@@ -8,6 +8,9 @@ metadata = pd.read_csv('../data/isolates_summary_and_qc/Ng-Combined-Metadata_202
 # Drop Ethiopian isolates
 metadata = metadata[(metadata['reference']!='ethiopia_isolates')&(metadata['reference']!='ethiopia_isolates_grad_lab')]
 metadata.reset_index(inplace = True, drop = True)
+
+# Drop unpublished isolates
+metadata = metadata[metadata['reference']!='unpublished']
 print('Total number of global isolates: ', len(metadata))
 
 # Basic filtering of QC

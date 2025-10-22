@@ -13,7 +13,9 @@
 11,Fifer2018,"Fifer et al., 2018",46
 12,Gernert2020,"Gernert et al., 2020",319
 13,Gianecini2023,"Gianecini et al., 2023",11
-14,Golparian2020,"Golparian et al., 2020",856
+14,Golparian2020brazil,"Golparian et al., JAC, 2020",511
+,Golparian2020historic,"Golparian et al., BMC Genomics, 2020",189
+,GianeciniGolparian2019,"Gianecini, Golparian et al., 2019",156
 15,Golparian2022,"Golparian et al., 2022",61
 16,Golparian2023,"Golparian et al., 2023",1
 17,Grad2014_2016,"Grad et al., 2014",1093
@@ -47,5 +49,4 @@
 45,Yahara2021,"Yahara et al., 2021",208
 46,Zhang2023,"Zhang et al., 2023",7
 47,Zondag2023,"Zondag et al., 2023",321
-48,unpublished,Unpublished,70
-,,,21653
+,,,21583
