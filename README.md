@@ -2,7 +2,7 @@
 
 Code and figures for analysis of Ethiopian *Neisseria gonorrhoeae* isolates in the context of global isolates in the paper:
 
-Derebe et al., Phenotypic and genotypic characterization of Neisseria gonorrhoeae isolates from Ethiopia, 2021 to 2023, **JAC-Antimicrobial Resistance**, 2026.
+Derebe et al., Phenotypic and genotypic characterization of *Neisseria gonorrhoeae* isolates from Ethiopia, 2021 to 2023, JAC-Antimicrobial Resistance, 2026. https://academic.oup.com/jacamr/article/8/4/dlag126/8740305
 
 The repository is organized into: 
 
